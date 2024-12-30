@@ -5,6 +5,8 @@ title: Home
 
 # Welcome to My Website
 
+![Thomas Rauter](photo_Rauter.jpg){: style="width:150px; height:auto; border-radius:50%;" }
+
 Hello, I’m **Thomas Rauter**, a PhD researcher in **Bioinformatics**. This website is my 
 professional portfolio, where I share my work, achievements, and ongoing projects in data 
 science and bioinformatics.
@@ -23,5 +25,5 @@ In my PhD, I am currently focused on:
 - Developing an autoencoder based method to impute missing values in omics data.
 
 Feel free to explore the sections above or connect with me on 
-[LinkedIn](www.linkedin.com/in/thomas-rauter-003583281) or via 
+[LinkedIn](https://www.linkedin.com/in/thomas-rauter-003583281) or via 
 [email](mailto:rauterthomas0@gmail.com).

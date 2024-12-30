@@ -33,4 +33,4 @@ As part of my PhD, I aim to:
 
 For more details, you can check out:
 - My [CV](https://drive.google.com/file/d/1a9K1L48lxbApPFR6w9N0J30hg5V_UB4F/view?usp=sharing)  
-- [LinkedIn Profile](www.linkedin.com/in/thomas-rauter-003583281)  
+- [LinkedIn Profile](https://www.linkedin.com/in/thomas-rauter-003583281)  
