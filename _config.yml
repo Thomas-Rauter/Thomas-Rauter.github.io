@@ -20,10 +20,9 @@
 
 title: Thomas Rauter
 email: rauterthomas0@gmail.com
-description: >-
-  The personal website of Thomas Rauter
+description: >- The personal website of Thomas Rauter
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://Thomas-Rauter.github.io" # GitHub Pages URL
+url: "https://thomas-rauter.github.io" # GitHub Pages URL
 github_username: Thomas-Rauter
 
 # Build settings
