@@ -7,6 +7,8 @@ title: Home
 
 ![Thomas Rauter](photo_Rauter.jpg){: style="width:150px; height:auto; border-radius:50%;" }
 
+Last updated: 30.12.2024
+
 Hello, I’m **Thomas Rauter**, a PhD researcher in **Bioinformatics**. This website is my 
 professional portfolio, where I share my work, achievements, and ongoing projects in data 
 science and bioinformatics.
