@@ -29,7 +29,7 @@ Our team secured **1st place** and won €4,000.
 *April – May 2023*  
 
 ![Python](https://img.shields.io/badge/Python-yellow?style=flat&logo=python&logoColor=white) 
-![Transformers](https://img.shields.io/badge/Transformers-green?style=flat)
+![LLMs](https://img.shields.io/badge/Transformers-green?style=flat)
 
 [Learn more about the challenge](https://pan.webis.de/clef23/pan23-web/trigger-detection.html)
 
