@@ -36,6 +36,3 @@ Our team secured **1st place** and won €4,000.
 **Overview**  
 Participated in a multi-label classification challenge to assign trigger warning labels to fanfiction documents based on their content.  
 As this was my first challenge, I was still inexperienced and did not make a major contribution to our team.
-
----
-

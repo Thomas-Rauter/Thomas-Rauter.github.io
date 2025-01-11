@@ -22,6 +22,3 @@ insights. Each project below is linked to an analysis sheet with findings and vi
 Analysed transactional data from a UK-based online retailer to uncover sales trends and customer 
 behaviour patterns. The dataset includes over 540,000 rows representing individual items in 22,190 
 transactions. 
-
----
-

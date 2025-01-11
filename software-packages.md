@@ -31,6 +31,3 @@ An R package for finding significant features (hits) in time-series -omics data 
 **Overview**  
 A small Python package for personal use in my SQL data analysis projects. Designed to streamline 
 SQLite database creation from dataframes and query execution workflows.
-
----
-

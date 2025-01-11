@@ -13,12 +13,11 @@ Hello, I’m **Thomas Rauter**, currently a PhD researcher in **Bioinformatics**
 Paris-Lodron-University of Salzburg, Austria. This website is my 
 professional portfolio, where I share my work, achievements, and ongoing projects.
 
-<div class="note">
-While much of the information here is also available on my 
-[LinkedIn](https://www.linkedin.com/in/thomas-rauter-003583281), this website presents it in a more
-organized and structured way. It is designed to be a central hub for my professional journey, 
-offering a comprehensive overview that is easy to navigate.
-</div>
+> **Note**: While much of the information here is also available on my 
+> [LinkedIn](https://www.linkedin.com/in/thomas-rauter-003583281), this website presents it in a more
+> organized and structured way. It is designed to be a central hub for my professional journey, 
+> offering a comprehensive overview that is easy to navigate.
+
 
 ## My Goal
 My goal is to become a **full-stack data scientist** working in industry, combining model 

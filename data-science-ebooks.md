@@ -14,6 +14,3 @@ I have authored the following ebooks:
 **Overview**  
 A comprehensive guide to navigating the complex decisions in machine learning workflows, 
 covering everything from pre-modelling setup to error analysis and overarching strategies.
-
----
-

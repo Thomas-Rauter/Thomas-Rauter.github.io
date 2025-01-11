@@ -49,5 +49,3 @@ This specialization, taught by Andrew Ng, equips learners with the essential too
 
 This course highlights a seamless integration of theory and practice, preparing learners for 
 real-world full-stack data science challenges.
-
----

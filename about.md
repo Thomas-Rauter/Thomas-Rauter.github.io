@@ -37,7 +37,7 @@ own. Deployed models, integrated into systems and accessible to end-users, are w
 decision-making and innovation. This is why I am passionate about mastering the entire lifecycle of
 data science projects, from exploration and modeling to deployment and maintenance.
 
-## Skills and Interests
+## Key Skills
 
 - **Programming**: Proficient in Python and R for data analysis and modeling.
 - **Machine Learning**: Focus on interpretable AI and applications in bioinformatics.
