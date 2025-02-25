@@ -6,7 +6,9 @@ title: Software Packages
 
 I have developed the following software packages:
 
+
 ---
+<br>
 
 ## **SplineOmics**  
 
@@ -19,7 +21,9 @@ I have developed the following software packages:
 **Overview**  
 An R package for finding significant features (hits) in time-series -omics data using splines and limma for hypothesis testing. It clusters hits based on spline shape and generates summary HTML reports.
 
+
 ---
+<br>
 
 ## **sqlite_manager**
 

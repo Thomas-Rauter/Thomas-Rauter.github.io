@@ -6,7 +6,9 @@ title: Scientific Publications
 
 A list of scientific publications where I am one of the authors:
 
+
 ---
+<br>
 
 ## **CO2-based Production of Phytase from Highly Stable Expression Plasmids in Cupriavidus necator H16**  
 *Published: January 2024* 

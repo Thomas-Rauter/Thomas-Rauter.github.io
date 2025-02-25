@@ -7,7 +7,7 @@ title: Home
 
 ![Thomas Rauter](photo_Rauter.jpg){: style="width:150px; height:auto; border-radius:50%;" }
 
-Last updated: 11.01.2025
+Last updated: 24.02.2025
 
 Hello, I’m **Thomas Rauter**, currently a PhD researcher in **Bioinformatics** at the 
 Paris-Lodron-University of Salzburg, Austria. This website is my 

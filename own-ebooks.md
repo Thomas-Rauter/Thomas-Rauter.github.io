@@ -1,12 +1,14 @@
 ---
 layout: default
-title: Data Science Ebooks
+title: Own Ebooks
 ---
-# Data Science Ebooks
+# Self Written Data Science Ebooks
 
 I have authored the following ebooks:
 
+
 ---
+<br>
 
 ## **Guidelines for Decision-Making in Machine Learning Projects**  
 [Read the ebook](https://drive.google.com/file/d/1ezX-GPt9SuKM9eFd_8uRn3ZZ4YlGDszC/view?usp=sharing)

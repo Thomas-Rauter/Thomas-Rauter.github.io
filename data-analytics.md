@@ -8,7 +8,9 @@ Welcome to the data analytics section of my portfolio. Here, I present projects 
 available datasets, conducted to practice skills like writing SQL queries and exploring data-driven
 insights. Each project below is linked to an analysis sheet with findings and visualizations:
 
+
 ---
+<br>
 
 ## Key Insights from Online Retail Data: Sales Trends and Customer Behaviour  
 
