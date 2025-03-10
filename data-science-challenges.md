@@ -21,7 +21,7 @@ together with a team:
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-%230072C6?style=flat&logo=xgboost&logoColor=white)
 
-### 🏆 **3st Place / 8 Teams – 80€ Prize**
+### 🏆 **3rd Place / 8 Teams – 80€ Prize**
 
 [Learn more about the challenge](https://events.vsc.ac.at/event/173/) 
 
@@ -55,7 +55,7 @@ ensure they cannot be linked to individual examples of the real data.
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9AB00?style=flat&logo=googlecolab&logoColor=white)
 
-### Part 1: 🏆 **4st Place / 140 Teams – 900$ Prize**
+### Part 1: 🏆 **2th Place / 75 submissions / 7800 participants – 2400$ Prize**
 ### Part 2: 🏆 still ongoing
 ### Part 3: 🏆 still ongoing
 

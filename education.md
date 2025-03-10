@@ -35,6 +35,8 @@ interpretable deep learning. I work in the
 [Degree Award Certificate](https://drive.google.com/file/d/122dL99Y2pXZb6P7T5_7jyzut8moYW1jQ/view?usp=sharing) |
 [Transcript of Records](https://drive.google.com/file/d/12-9-E0MMHaOuRm5BSe3CBcuETnLng0iE/view?usp=sharing) |
 
+Grade Average: 1.22 (Graduated with Honors)
+
 **Overview**  
 During my Master’s in Biotechnology, I specialized in molecular biotechnology, 
 bioinformatics, and bioprocess technology. I gained expertise in cell, protein,
@@ -60,6 +62,8 @@ structural variants in long DNA reads.
 [Degree Award Certificate](https://drive.google.com/file/d/1-sL_eXZFj3PLWbNDUNumljfEZOAmjRV3/view?usp=sharing) |
 [Transcript of Records](https://drive.google.com/file/d/1-zHvJ8Q2EvF1xCZwDPpZY4N7EAJBkdIY/view?usp=sharing) |
 
+Grade Average: 1.41 (Graduated with Honors)
+
 **Overview**  
 During my Bachelor's in Molecular Biology, I gained a foundation in mathematics,
 physics, chemistry, and informatics, along with hands-on laboratory experience.
@@ -76,6 +80,8 @@ ethical and societal aspects of genetic technologies.
 ## Natural Science Highschool Albert Einstein
 > **Meran, Italy**  
 > *September 2012 - June 2017*
+
+Final Score: 85/100
 
 **Overview**  
 I attended a natural science high school, where the curriculum focused on
