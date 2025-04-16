@@ -37,12 +37,39 @@ own. Deployed models, integrated into systems and accessible to end-users, are w
 decision-making and innovation. This is why I am passionate about mastering the entire lifecycle of
 data science projects, from exploration and modeling to deployment and maintenance.
 
-## Key Skills
 
-- **Programming**: Proficient in Python and R for data analysis and modeling.
-- **Machine Learning**: Focus on interpretable AI and applications in bioinformatics.
-- **Data Visualization**: Creating effective and insightful visualizations.
-- **Research**: Exploring innovative methods to address complex biological questions.
+## Strenghts
+
+- **Structured Thinking**: I’m highly organized by nature—whether it’s my desk,
+  desktop, phone, browser tabs, emails, or codebase, everything is 
+  intuitively named, neatly arranged, and well-documented. I use to-do lists 
+  extensively and rarely lose track of data or files. This structure isn’t 
+  just a habit—it’s a conscious strategy. Long-term projects live or die by 
+  their organization, and I make sure mine stay alive.
+- **Patience**: Structured work over time requires patience, and I’ve always had
+  a strong sense of that. Progress in research or data science is often slow 
+  and incremental, so staying focused on the bigger picture is essential. Since
+  I started studying in 2017, I’ve wanted to apply my skills to projects that 
+  have real-world impact. But I knew I first needed to build them—and only in 
+  2024, with the start of my PhD, did I feel ready to do that meaningfully.
+- **Creativity**: I tend to think in unconventional ways, which often leads to 
+  efficient or elegant solutions. For example, back in school, I’d sometimes 
+  forget the "proper" formulas for math problems but still solve them using 
+  graphical reasoning or approximation. That mindset stuck—I look for insight,
+  not just instructions.
+
+## Where I am improving
+
+- **Prioritization**: I sometimes gravitate toward tasks I find interesting, 
+  even when they aren’t the most urgent. This can delay higher-priority work. 
+  I’ve become more aware of this tendency and am now building routines that help
+  me stay aligned with what matters most to the project—without losing the drive
+  for exploration.
+- **Focus**: I can get distracted by noise and interruptions, especially in 
+  shared office environments. To counter this, I use earplugs, limit 
+  notifications, and set clear focus blocks to stay fully immersed in one task 
+  at a time.
+
 
 ## Explore More
 
