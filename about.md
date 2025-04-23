@@ -40,6 +40,15 @@ data science projects, from exploration and modeling to deployment and maintenan
 
 ## Strenghts
 
+- **Autodidactic Learning**: I have a proven ability to teach myself complex 
+  technical topics through 
+  independent study. With a formal background in biology, I transitioned into 
+  data science without relying on additional university coursework. By 
+  leveraging online resources, technical documentation, and hands-on 
+  experimentation, I developed expertise in statistical modeling, data  
+  analysis, and machine learning using Python and R. This self-directed  
+  approach allows me to efficiently master new tools and concepts in  
+  fast-evolving domains.
 - **Structured Thinking**: I’m highly organized by nature—whether it’s my desk,
   desktop, phone, browser tabs, emails, or codebase, everything is 
   intuitively named, neatly arranged, and well-documented. I use to-do lists 
