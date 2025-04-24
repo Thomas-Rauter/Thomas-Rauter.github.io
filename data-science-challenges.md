@@ -56,7 +56,7 @@ ensure they cannot be linked to individual examples of the real data.
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9AB00?style=flat&logo=googlecolab&logoColor=white)
 
 ### Part 1: 🏆 **2th Place / 75 submissions / 7800 participants – 2400$ Prize**
-### Part 2: 🏆 still ongoing
+### Part 2: 🏆 **6th Place / 11 submissions / 8200 participants – 700$ Prize**
 ### Part 3: 🏆 still ongoing
 
 [Learn more about the challenge](https://drive.google.com/file/d/1h5Z6euEbMD-8r0hSZsMEYEG-pb_nyiiH/view?usp=sharing)
