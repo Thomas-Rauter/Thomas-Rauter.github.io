@@ -82,6 +82,25 @@ principles essential for building and evaluating models.
 
 ## Books
 
+
+---
+<br>
+
+### **Machine Learning Engineering**
+> **by Andriy Burkov**  
+
+**Skills**: machine learning, feature engineering, modeling, deployment and 
+monitoring;
+
+[Link to the ebook](https://www.mlebook.com/wiki/doku.php)
+
+**Overview**  
+This ebook focuses on navigating machine learning projects, from best practices
+of how to split the data, how to get great features, to choosing appropriate 
+models for the given problems, and more. This book gave me very valuable 
+information of what can be called the art of machine learning. 
+
+
 ---
 <br>
 
