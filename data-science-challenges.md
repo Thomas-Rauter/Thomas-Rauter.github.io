@@ -22,7 +22,7 @@ together with a team:
 ![SHAP](https://img.shields.io/badge/SHAP-%23FF4081?style=flat&logoColor=white)
 
 
-### 🏆 **1007th Place / 2487**
+### 🏆 **1007th Place / 2487 Submissions**
 
 [Learn more about the challenge](https://www.drivendata.org/competitions/57/nepal-earthquake/) 
 
@@ -45,10 +45,10 @@ get less earthquake damage. Our SHAP feature importance analysis showed that
 building age is the most important predictor of earthquake damage (besides 
 proximity to the earthquake epicenter): newer buildings tend to suffer less, 
 while older ones are more likely to be heavily damaged. Structural materials 
-play a major role too. Buildings made of mud mortar stone, mud mortar brick, 
-or adobe mud are associated with higher damage, which matches engineering  
+play a major role too. Buildings made of mud mortar stone, mud mortar brick, or
+adobe mud are associated with higher damage, which matches engineering
 knowledge—they are brittle, lack reinforcement, and perform poorly under 
-lateral  seismic forces. In contrast, cement mortar brick offers better  
+lateral  seismic forces. In contrast, cement mortar brick offers better 
 protection due to its higher strength and cohesion. 
 
 
