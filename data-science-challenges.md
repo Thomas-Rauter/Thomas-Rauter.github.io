@@ -12,6 +12,49 @@ together with a team:
 ---
 <br>
 
+## **Richter's Predictor: Modeling Earthquake Damage**  
+> **Driven Data, USA**
+
+![Python](https://img.shields.io/badge/Python-yellow?style=flat&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-%230072C6?style=flat&logo=xgboost&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-%23FF4081?style=flat&logoColor=white)
+
+
+### 🏆 **1007th Place / 2487**
+
+[Learn more about the challenge](https://www.drivendata.org/competitions/57/nepal-earthquake/) 
+
+**Overview**  
+The task was to develop a model that predicts the earthquake damage (low, 
+medium, almost complete destruction) from features such as the geo location, 
+and construction engineering features, such as the height of the building 
+and the type of superstructure material. The data consisted of about 260,000 
+houses damaged in the Gorkha earthquake that hit Nepal in 2015. Note that 
+this was a practice challenge with no price pool.
+
+**Approach**  
+We used one-hot encoding and target encoding for the categorical 
+features, and predicted the damage with an XGBoost model by threating this 
+ordinal problem as a classification. As the objective function, we used 
+multi-class classification – soft probability output. The final score was 
+reported with the micro-averaged F1 score. Finally, we used SHAP to extract 
+feature importances to find insights about how to build houses so that they 
+get less earthquake damage. Our SHAP feature importance analysis showed that 
+building age is the most important predictor of earthquake damage (besides 
+proximity to the earthquake epicenter): newer buildings tend to suffer less, 
+while older ones are more likely to be heavily damaged. Structural materials 
+play a major role too. Buildings made of mud mortar stone, mud mortar brick, 
+or adobe mud are associated with higher damage, which matches engineering  
+knowledge—they are brittle, lack reinforcement, and perform poorly under 
+lateral  seismic forces. In contrast, cement mortar brick offers better  
+protection due to its higher strength and cohesion. 
+
+
+---
+<br>
+
 ## **Watt's up? Synthetic Data for Buildings**  
 > **by TU Vienna, Austria**  
 > *22 – 23 February 2025*
