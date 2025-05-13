@@ -13,7 +13,8 @@ together with a team:
 <br>
 
 ## **Richter's Predictor: Modeling Earthquake Damage**  
-> **Driven Data, USA**
+> **by Driven Data, USA**  
+> *March – May 2025*
 
 ![Python](https://img.shields.io/badge/Python-yellow?style=flat&logo=python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikitlearn&logoColor=white)

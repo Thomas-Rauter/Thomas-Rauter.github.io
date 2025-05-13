@@ -7,10 +7,12 @@ title: Courses and Books
 
 Welcome to the courses and books section of my portfolio. Here, I share the 
 educational programs I have completed and the books I have studied to expand my
-professional skills. These courses and books complement my formal university 
-education, reflecting my commitment to continuous learning beyond academia.
+professional skills. While I completed many different courses throughout my 
+professional journey (for example as part of my Bachelor's and Master's 
+degrees) here I want to focus on those that are relevant for data science.
 
-## Courses
+
+## Courses, Self-Directed Learning
 
 ---
 <br>
@@ -80,7 +82,122 @@ principles essential for building and evaluating models.
 ---
 <br>
 
+
+## Courses, Academia
+
+I completed the following courses as part of my PhD program:
+
+
+---
+<br>
+
+### **Elementary Data Mining**
+> **by Dr. Christian Borgelt, Paris-Lodron-University of Salzburg, Austria**  
+> *March - June 2025*
+
+**Skills**: Theoretic understanding of the data mining process, kNN, Naive 
+Bayes;
+
+**Overview**  
+The Elementary Data Mining lecture provides a foundational overview of 
+extracting meaningful knowledge from data. It covers the full Knowledge 
+Discovery in Databases (KDD) process, from understanding data to building 
+predictive models. Core modeling principles are introduced, including model 
+classes, fitting techniques, error sources, and validation strategies.  
+Students  learn key algorithms such as k-Nearest Neighbors, decision and  
+regression trees, and Bayesian classifiers (naive, Gaussian, and 
+tree-extended).  Additionally, the course introduces unsupervised learning 
+through basic clustering methods, including k-means and hierarchical 
+clustering, equipping students with a broad toolkit for data-driven analysis.
+
+
+---
+<br>
+
+### **Probability Theory**
+> **by Prof. Arne Bathke, Paris-Lodron-University of Salzburg, Austria**  
+> *March - June 2025*
+
+**Skills**: Theoretic understanding of probability theory, approaches to 
+solve probability problems;
+
+**Overview**  
+Introduction to elementary methods of stochastics and probability theory  
+with a  strong emphasis on modeling. Discrete and continuous models, random 
+variables, distributions, expected value, variance, moments, conditional 
+probabilities, independence, important inequalities, convergences, and limit 
+theorems.
+
+
+---
+<br>
+
+### **Exercises for Probability Theory**
+> **by Jonas Beck, Paris-Lodron-University of Salzburg, Austria**  
+> *March - June 2025*
+
+**Skills**: Ability to solve probability problems;
+
+**Overview**  
+Exercises to the lecture "Probability Theory" held by Arne Bathke, described 
+above.
+
+
+---
+<br>
+
+
+I completed the following courses as part of my master program:
+
+
+---
+<br>
+
+### **Programming with Perl**
+> **by Prof. Leila Taher, TU Graz, Austria**  
+> *March - June 2023*
+
+![Perl](https://img.shields.io/badge/Perl-%2339457E?style=flat&logo=perl&logoColor=white)
+
+**Skills**: Perl programming;
+
+**Overview**  
+In the beginner's Perl course I took, I learned the core concepts of 
+programming through Perl’s syntax and unique strengths. I started with the 
+basics—variables, data types, and input/output—before moving on to control 
+structures like loops and conditionals. One of the most interesting parts
+was  working with regular expressions, which allowed me to efficiently 
+search,  match, and manipulate text. I also got hands-on experience writing 
+functions, subroutines, organizing code into packages, and using modules, 
+which  taught me  how to structure more complex and reusable scripts. 
+Overall, the course gave me a solid grasp of both Perl and essential 
+programming principles.
+
+
+---
+<br>
+
+
 ## Books
+
+
+---
+<br>
+
+### **Machine Learning Yearning**
+> **by Andrew Ng**  
+
+**Skills**: machine learning, error analysis, project structuring, performance
+benchmarking, data strategy development;
+
+[Link to the ebook](https://info.deeplearning.ai/machine-learning-yearning-book)
+
+**Overview**  
+This ebook is like a guidebook for planning and improving machine learning  
+projects. Instead of focusing on the math or code, it teaches you how to  
+think  about building AI systems—like choosing the right data, figuring out 
+what's going wrong, and deciding what to fix first. It's about making smart 
+decisions to help your machine learning models work better in the real world.
 
 
 ---
