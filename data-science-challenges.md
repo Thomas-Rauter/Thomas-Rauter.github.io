@@ -12,6 +12,45 @@ together with a team:
 ---
 <br>
 
+## **BIRDCLEF+ 2025**  
+> **by Cornell Lab of Ornithology, USA**  
+> *May 2025*
+
+![Python](https://img.shields.io/badge/Python-yellow?style=flat&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C?style=flat&logo=pytorch&logoColor=white)
+
+[Learn more about the challenge](https://www.imageclef.org/BirdCLEF2025) 
+
+**Overview**  
+The task was to develop a sound classification model that determines which of 
+206 different 
+animal species are present in a soundclip, taken in a wild life reservoir. 
+Such models are used to quantifiy the success of environmental restoration 
+programs. The idea is that a high biodiversity and the presence of certain 
+key species indicates a healthy environment and therefore the success of the 
+restoration program. 
+
+**Approach**  
+I used the PANN audio model, which was pretrained on 5000 hours of sound and 
+predicts 527 sound classes. With the help of this model, I created 
+embeddings of the sound training data from the BIRDCLEF challenge. The idea 
+is that this pretrained model is already capable of finding useful features 
+in sound data, and can therefore be used as a feature extractor. To achieve 
+this, I removed the output layer of the PANN, and used the output of the 
+layer before as the embeddings. Then I trained another neural network model 
+with far fewer parameters than PANN to map from those embeddings to the 
+probabilities of the 206 animal classes of the BIRDCLEF challenge. 
+Unfortunately, the challenge hosts required a minimal runtime of the 
+approach in their cloud environment, which I could not meet with my approach,
+which is why I was unable to submit and achieve a ranking. 
+
+
+
+---
+<br>
+
 ## **Richter's Predictor: Modeling Earthquake Damage**  
 > **by Driven Data, USA**  
 > *March – May 2025*
