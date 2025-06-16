@@ -8,6 +8,21 @@ title: Books
 Welcome to the books section of my portfolio. Here, I list the books I have 
 studied to expand my professional (data science) skills.
 
+
+---
+<br>
+
+## **Modeling Mindsets**
+> **by Christoph Molnar, Germany, published 2022**  
+
+**Skills**: Frequentist and Bayesian statistics, causal inference, supervised unsupervised reinforcement machine learning, deep learning;
+
+[Link to the ebook](https://christophmolnar.com/books/modeling-mindsets)
+
+**Overview**  
+This book discussed the idea of viewing modeling not in terms of the algorithms/model classes, like linear regression, but in terms of mindsets. Depending on the mindset, different conclusions can be drawn from the model and different outcomes achieved. For example, when linear regression is used with the Frequentist mindset, the focus is on hypothesis testing with the help of the parameter values, and the outcomes are p-values and confidence intervals. On the other hand, when the same algorithm is used with a supervised machine learning mindset, the focus is on the prediction performance on holdout test data.
+
+
 ---
 <br>
 
