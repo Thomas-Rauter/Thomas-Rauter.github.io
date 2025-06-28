@@ -6,7 +6,7 @@ title: Books
 # Books
 
 Welcome to the books section of my portfolio. Here, I list the books I have 
-studied to expand my professional (data science) skills.
+studied to expand my professional skills.
 
 
 ---

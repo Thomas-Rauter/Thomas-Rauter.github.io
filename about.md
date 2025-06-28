@@ -12,7 +12,7 @@ interpretable deep learning for molecular networks.
 ## Background
 
 I hold a bachelor’s degree in Molecular Biology from Graz and a master’s degree in Biotechnology, 
-where I developed a strong interest in computational methods, particularly machine learning.
+where I developed a strong interest in computational methods and statistics.
 This passion led me to specialize in bioinformatics for my PhD research.
 
 ## Current Work
@@ -22,27 +22,12 @@ As part of my PhD, I aim to:
 - Build interpretable machine learning models for molecular networks.
 - Model CHO cells to improve biotechnological processes.
 
-## My Goal: Becoming a Full-Stack Data Scientist
-
-My ultimate goal is to become a **full-stack data scientist**, a role that encompasses not only 
-developing machine learning models but also deploying them into production and monitoring them, to 
-deliver real-world value. 
-
-A full-stack data scientist bridges the gap between model development and its practical application.
-While I love programming, machine learning, and data science, I believe that the true value comes 
-from delivering functional solutions that directly impact the business. 
-
-A model in a Jupyter notebook, no matter how sophisticated, cannot provide value to a company on its
-own. Deployed models, integrated into systems and accessible to end-users, are what drive 
-decision-making and innovation. This is why I am passionate about mastering the entire lifecycle of
-data science projects, from exploration and modeling to deployment and maintenance.
-
 
 ## Strenghts
 
 - **Autodidactic Learning**: I have a proven ability to teach myself complex 
   technical topics through independent study. With a formal background in 
-  biology, I transitioned into data science without relying on additional 
+  biology, I transitioned into bioinformatics without relying on additional 
   university coursework. By leveraging online resources, technical 
   documentation, and hands-on experimentation, I developed expertise in  
   statistical modeling, data analysis, and machine learning using Python and 
@@ -55,11 +40,8 @@ data science projects, from exploration and modeling to deployment and maintenan
   just a habit—it’s a conscious strategy. Long-term projects live or die by 
   their organization, and I make sure mine stay alive.
 - **Patience**: Structured work over time requires patience, and I’ve always had
-  a strong sense of that. Progress in research or data science is often slow 
-  and incremental, so staying focused on the bigger picture is essential. Since
-  I started studying in 2017, I’ve wanted to apply my skills to projects that 
-  have real-world impact. But I knew I first needed to build them—and only in 
-  2024, with the start of my PhD, did I feel ready to do that meaningfully.
+  a strong sense of that. Progress in research is often slow 
+  and incremental, so staying focused on the bigger picture is essential.
 - **Creativity**: I tend to think in unconventional ways, which often leads to 
   efficient or elegant solutions. For example, back in school, I’d sometimes 
   forget the "proper" formulas for math problems but still solve them using 

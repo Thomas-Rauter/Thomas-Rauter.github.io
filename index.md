@@ -7,7 +7,7 @@ title: Home
 
 ![Thomas Rauter](photo_Rauter.jpg){: style="width:150px; height:auto; border-radius:50%;" }
 
-Last updated: 24.02.2025
+Last updated: 28.06.2025
 
 Hello, I’m **Thomas Rauter**, currently a PhD researcher in **Bioinformatics** at the 
 Paris-Lodron-University of Salzburg, Austria. This website is my 
@@ -18,13 +18,6 @@ professional portfolio, where I share my work, achievements, and ongoing project
 > organized and structured way. It is designed to be a central hub for my professional journey, 
 > offering a comprehensive overview that is easy to navigate.
 
-
-## My Goal
-My goal is to become a **full-stack data scientist** working in industry, combining model 
-development, deployment, and monitoring to deliver real-world value. 
-
-To learn more about why this is my goal and what it means to me, visit the [About Me](about-me) 
-page.
 
 ## Technology Badges
 Throughout this website, you will see badges like 

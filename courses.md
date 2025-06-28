@@ -5,11 +5,8 @@ title: Courses
 
 # Courses
 
-Welcome to the courses section of my portfolio. Here, I list the 
-educational programs I have completed to expand my professional (data 
-science)  skills. While I completed many different courses throughout my 
-professional journey (for example as part of my Bachelor's and Master's 
-degrees) here I want to focus on those that are relevant for data science.
+Welcome to the courses section of my portfolio. Here, I want to highlight 
+selected courses I took to improve my professional (bioinformatics) skills.
 
 
 ## Self-Directed Learning
