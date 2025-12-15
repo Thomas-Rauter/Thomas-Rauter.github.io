@@ -1,18 +1,19 @@
 ---
 layout: default
-title: Scientific Publications
+title: Papers
 ---
 # Scientific Publications
 
 A list of scientific publications where I am one of the authors (also listed 
-on Google Scholar: https://scholar.google.com/citations?user=A0DJVxcAAAAJ&hl=de):
+on 
+[Google Scholar](https://scholar.google.com/citations?user=A0DJVxcAAAAJ&hl=de)):
 
 
 ---
 <br>
 
 ## **CO2-based Production of Phytase from Highly Stable Expression Plasmids in Cupriavidus necator H16**  
-*Published: January 2024* 
+*Microbial Cell Factories* · January 2024  
 
 ![Cloning](https://img.shields.io/badge/Cloning-green?style=flat) 
 ![Cultivation](https://img.shields.io/badge/Cultivation-blue?style=flat)  

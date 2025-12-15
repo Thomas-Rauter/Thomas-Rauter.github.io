@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Data Science Challenges
+title: Challenges
 ---
 # Data Science Challenges
 

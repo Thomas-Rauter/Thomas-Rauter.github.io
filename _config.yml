@@ -33,6 +33,16 @@ plugins:
 
 minima:
   skin: auto
+  
+header_pages:
+  - about.md
+  - education.md
+  - papers.md
+  - challenges.md
+  - courses.md
+  - books.md
+  - other.md
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

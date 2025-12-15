@@ -1,7 +1,50 @@
 ---
 layout: default
-title: Own Ebooks
+title: Other
 ---
+# Software Packages
+
+I have developed the following software packages:
+
+
+---
+<br>
+
+## **SplineOmics**  
+
+![R](https://img.shields.io/badge/R-blue?style=flat&logo=r&logoColor=white) 
+![HTML](https://img.shields.io/badge/HTML-orange?style=flat&logo=html5&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=white)
+
+[Website](https://csbg.github.io/SplineOmics/)
+
+**Overview**  
+An R package for finding significant features (hits) in time-series -omics data using splines and limma for hypothesis testing. It clusters hits based on spline shape and generates summary HTML reports.
+
+---
+<br><br><br><br><br><br>
+
+# Honors and Awards
+
+Welcome to the honors and awards section of my portfolio. Here, I list 
+achievements like grants, fellowships, scholarships, etc.
+
+
+---
+<br>
+
+## DOC Fund of the Austrian Academy of Sciences (ÖAW)
+
+I received a DOC Fellowship from the Austrian Academy of Sciences (ÖAW), a
+highly competitive grant supporting outstanding PhD students across all research
+disciplines. The fellowship is awarded based on academic performance, research
+potential, and project quality. I secured €147,240 in total funding, with
+€49,080 allocated for my personal research support over three years, based
+on my independently proposed research project.
+
+---
+<br><br><br><br><br><br>
+
 # Self Written Data Science Ebooks
 
 I have authored the following ebooks:

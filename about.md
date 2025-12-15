@@ -60,6 +60,38 @@ As part of my PhD, I aim to:
   notifications, and set clear focus blocks to stay fully immersed in one task 
   at a time.
 
+---
+<br>
+
+## Hardskills
+
+### Python programming
+
+Whenever I work with machine learning, I use Python as the to go language 
+for that. Further, I wrote a Python package that allows to train a special 
+type of interpretable neural network that has the architecture of a 
+molecular network (not yet made available publicly at the time of writing this).
+
+### R programming
+
+R is the number one language in bioinformatics and therefore I use it a lot 
+in my daily work. I did a multitude of statistical analyses with it, and 
+also wrote an R package, SplineOmics (see section:  software-packages).
+
+
+## Softskills
+
+### Presenting
+
+**Overview:**  
+Presenting results and topics is a key skill when someone pursues a scientific 
+education. Since highschool, I had to make many different presentations, which 
+includes more formal ones at seminars and conferences, but also more informal 
+ones in group meetings. I can say with confidence that over the years I 
+became a very good presenter, when I have the time to sufficiently prepare.
+
+
+
 
 ## Explore More
 
