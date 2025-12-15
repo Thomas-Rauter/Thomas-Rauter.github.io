@@ -21,17 +21,3 @@ I have developed the following software packages:
 **Overview**  
 An R package for finding significant features (hits) in time-series -omics data using splines and limma for hypothesis testing. It clusters hits based on spline shape and generates summary HTML reports.
 
-
----
-<br>
-
-## **sqlite_manager**
-
-![Python](https://img.shields.io/badge/Python-yellow?style=flat&logo=python&logoColor=white) 
-![SQLite](https://img.shields.io/badge/SQLite-lightblue?style=flat&logo=sqlite&logoColor=white)
-
-[GitHub Repository](https://github.com/Thomas-Rauter/sqlite_manager)
-
-**Overview**  
-A small Python package for personal use in my SQL data analysis projects. Designed to streamline 
-SQLite database creation from dataframes and query execution workflows.
