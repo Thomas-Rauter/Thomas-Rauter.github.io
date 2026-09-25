@@ -12,6 +12,37 @@ on
 ---
 <br>
 
+## **Effects of feeding strategies on culture performance and product quality in NISTCHO**  
+*Systems Biology and Applications* · March 2026
+
+[Read the paper](https://doi.org/10.1038/s41540-026-00686-3)
+
+**Abstract**  
+Monoclonal antibody N-glycosylation is a critical quality attribute influencing
+therapeutic safety and efficacy, and is strongly influenced by bioprocess
+design. NISTCHO, a publicly available Chinese hamster ovary producer cell line,
+is increasingly encouraged for use as a reference system. However, the impact
+of feeding strategies on cellular performance and N-glycosylation has not been
+assessed. Here, we applied multivariate analysis of compositional N-glycan data
+to assess how feeding strategies influence N-glycan composition of cNISTmAb. We
+varied feeding strategies in frequency, glucose supply, and galactose/manganese
+supplementation. Feeding frequency had minimal impact on quality attributes but
+strongly affected culture performance, with every-other-day feeding improving
+titers and cell-specific productivity. High glucose availability supported
+growth and productivity. Low glucose strategies reduced titers and shifted
+N-glycosylation towards non-galactosylated and fucosylated species, despite 
+lactate accumulation remaining within favorable ranges. Galactose and manganese
+consistently increased antibody galactosylation, with galactose additionally
+serving as an auxiliary carbon source, extending cell viability. Importantly,
+mAb glycation remained stable across all feeding strategies at harvest. 
+Overall, these results demonstrate that feed composition and timing can be used
+to tune both cellular performance and mAb glycosylation, establishing NISTCHO
+as a robust benchmark for standardized process-quality studies.
+
+
+---
+<br>
+
 ## **CO2-based Production of Phytase from Highly Stable Expression Plasmids in Cupriavidus necator H16**  
 *Microbial Cell Factories* · January 2024  
 

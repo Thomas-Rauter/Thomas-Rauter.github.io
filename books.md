@@ -12,6 +12,72 @@ studied to expand my professional skills.
 ---
 <br>
 
+## **Software Engineering for Data Scientists**
+> **by Catherine Nelson, O'Reilly, USA, published 2024**  
+
+**Skills**: code quality, performance and data structures, object-oriented 
+programming, error handling and logging, formatting and linting, documentation, 
+testing, version control, APIs, automation and deployment;
+
+[Link to the book](https://www.oreilly.com/library/view/software-engineering-for/9781098136192/)
+
+**Overview**  
+This book bridges the gap between writing code in notebooks for exploratory 
+analysis and writing robust, maintainable, and reusable software. It covers 
+the practices that software engineers take for granted but data scientists 
+rarely learn formally, such as testing, documentation, refactoring, version 
+control, and deployment. These are exactly the practices I apply when 
+building my [software packages](packages.html).
+
+
+---
+<br>
+
+## **Causal Inference in Statistics: A Primer**
+> **by Judea Pearl, Madelyn Glymour, and Nicholas P. Jewell, USA, published 2016**  
+
+**Skills**: structural causal models, causal graphs, d-separation, do-operator, 
+backdoor and front-door criteria, mediation analysis, causal inference in 
+linear systems, counterfactuals;
+
+[Link to the book](https://bayes.cs.ucla.edu/PRIMER/)
+
+**Overview**  
+This book is the technical companion to *The Book of Why*: a concise 
+introduction to the formal methods of causal inference, with exercises in 
+every chapter. It covers how to encode assumptions in causal graphs, how to 
+decide which variables to adjust for, how to compute the effects of 
+interventions from observational data, and how to reason about 
+counterfactuals. My particular focus was the sections on linear systems, 
+which show how these methods translate to linear models and regression 
+coefficients, the models I work with most in my research.
+
+
+---
+<br>
+
+## **The Book of Why**
+> **by Judea Pearl and Dana Mackenzie, USA, published 2018**  
+
+**Skills**: causal inference, causal diagrams, confounding, interventions, 
+counterfactuals;
+
+[Link to the book](https://bayes.cs.ucla.edu/WHY/)
+
+**Overview**  
+In this book, Turing Award winner Judea Pearl explains the "causal 
+revolution" for a broad audience: why classical statistics long avoided 
+questions of cause and effect, and how causal diagrams and the do-operator 
+now make it possible to answer them from data. It introduces the "ladder of 
+causation", which distinguishes three levels of reasoning: association 
+(seeing), intervention (doing), and counterfactuals (imagining). It gave me 
+the conceptual big picture of causal inference, which the formal methods 
+then build on.
+
+
+---
+<br>
+
 ## **Modeling Mindsets**
 > **by Christoph Molnar, Germany, published 2022**  
 

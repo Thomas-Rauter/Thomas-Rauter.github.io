@@ -5,9 +5,56 @@ title: About Me
 
 # About Me
 
-Hello, I’m **Thomas Rauter**, a PhD researcher in **Bioinformatics** at the University of Salzburg.
-My PhD focuses on statistical evaluation of time-series omics data, CHO cell modeling, and 
-interpretable deep learning for molecular networks.
+Hello, I’m **Thomas Rauter**, a **bioinformatics scientist** who also builds 
+**research software**. I am doing my PhD in Bioinformatics at the Paris Lodron 
+University of Salzburg, Austria, where I work on the statistical analysis of 
+time-series omics data and on interpretable deep learning for molecular networks.
+
+## What I Bring to the Table
+
+My profile combines two skill sets that usually come from different people:
+the scientific depth to design, carry out, and critically evaluate a
+scientific analysis, and the software engineering skills to turn that
+analysis into robust, reusable tools that other scientists can rely on.
+
+### Science: Statistical Modeling and Machine Learning
+
+- **Linear models and splines**: Linear models are the backbone of 
+  bioinformatics research, and I worked a lot with them. A key part 
+  of my PhD 
+  was combining linear models with spline modeling to capture nonlinear 
+  changes of molecular features such as transcripts and proteins over time. 
+  This work is the basis of my R package [SplineOmics](packages.html) which 
+  I developed in specific for our research consortium.
+- **Interpretable neural networks**: My second focus is knowledge-primed 
+  neural networks (KPNNs), whose architecture mirrors a known molecular 
+  network, so every hidden node corresponds to a named gene or protein. This 
+  makes it possible to ask not only *what* a model predicts but *which 
+  molecular entities* it relies on. For this, I developed the Python package 
+  [kpnn2](packages.html). A publication on this work is coming soon.
+- **Broad statistics and machine learning literacy**: Beyond these two focus 
+  areas, I constantly apply a wide range of statistical and machine learning 
+  methods in my work, and I sharpen these skills in 
+  [data science challenges](challenges.html).
+- **Causal inference**: On my own initiative, I studied causal inference in 
+  the framework of Judea Pearl, including causal diagrams (DAGs), the 
+  do-operator, and the backdoor criterion. My particular focus was how to 
+  apply these methods with linear models, for example to decide which 
+  variables a regression must adjust for, and which it must not, so that a 
+  coefficient can be read as a causal effect. What fascinates me about the 
+  field is that it can estimate the effects of interventions from 
+  observational data, where a controlled experiment would be too expensive, 
+  unethical, or impossible. I have not yet had the opportunity to apply these 
+  methods in my research, but I keep deepening my knowledge, and it shapes how 
+  I read any analysis: does it show correlation or causation?
+
+### Software: Packages Used by Other Scientists
+
+I developed several R and Python packages that other scientists use in their 
+own research: [SplineOmics, scholid, scholidonline, and kpnn2](packages.html). 
+Three of them are published on CRAN or PyPI. I build them to the standards of 
+production software, with automated tests, continuous integration, and full 
+documentation websites.
 
 ## Background
 
@@ -17,13 +64,14 @@ This passion led me to specialize in bioinformatics for my PhD research.
 
 ## Current Work
 
-As part of my PhD, I aim to:
-- Develop statistical methods for analyzing time-series omics data.
-- Build interpretable machine learning models for molecular networks.
+As part of my PhD, I:
+- Develop statistical methods for time-series omics data, based on linear 
+  models and splines.
+- Build interpretable neural networks for molecular networks.
 - Model CHO cells to improve biotechnological processes.
 
 
-## Strenghts
+## Strengths
 
 - **Autodidactic Learning**: I have a proven ability to teach myself complex 
   technical topics through independent study. With a formal background in 
@@ -67,16 +115,16 @@ As part of my PhD, I aim to:
 
 ### Python programming
 
-Whenever I work with machine learning, I use Python as the to go language 
-for that. Further, I wrote a Python package that allows to train a special 
-type of interpretable neural network that has the architecture of a 
-molecular network (not yet made available publicly at the time of writing this).
+Whenever I work with machine learning, Python is my go-to language. I wrote 
+the Python package [kpnn2](packages.html), which builds knowledge-primed 
+neural networks (interpretable neural networks with the architecture of a 
+molecular network) in PyTorch.
 
 ### R programming
 
 R is the number one language in bioinformatics and therefore I use it a lot 
 in my daily work. I did a multitude of statistical analyses with it, and 
-also wrote an R package, SplineOmics (see section:  software-packages).
+also wrote the R packages [SplineOmics, scholid, and scholidonline](packages.html).
 
 
 ## Softskills
@@ -96,5 +144,5 @@ became a very good presenter, when I have the time to sufficiently prepare.
 ## Explore More
 
 For more details, you can check out:
-- My [CV](https://drive.google.com/file/d/1a9K1L48lxbApPFR6w9N0J30hg5V_UB4F/view?usp=sharing)  
+- My [CV](https://drive.google.com/file/d/1gLn4RhhNkInklDJa_lnNhWgxSLdoCnVj/view?usp=sharing)  
 - [LinkedIn Profile](https://www.linkedin.com/in/thomas-rauter-003583281)  

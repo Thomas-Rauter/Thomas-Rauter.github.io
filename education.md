@@ -5,8 +5,7 @@ title: Education
 # Education
 
 Welcome to the education section of my portfolio. Here, I list my formal 
-education, including my academic degrees and coursework from school and 
-university.
+education (school and academic degrees).
 
 
 ---
@@ -31,9 +30,7 @@ interpretable deep learning. I work in the
 > **University of Graz and TU Graz, Austria**  
 > *Oktober 2021 - August 2024*
 
-[Notice of Degree Completion](https://drive.google.com/file/d/16kw_JFTVwQYRteX2I3ZVRQbBi2Dep8Dm/view?usp=sharing) |
-[Degree Award Certificate](https://drive.google.com/file/d/122dL99Y2pXZb6P7T5_7jyzut8moYW1jQ/view?usp=sharing) |
-[Transcript of Records](https://drive.google.com/file/d/12-9-E0MMHaOuRm5BSe3CBcuETnLng0iE/view?usp=sharing) |
+*Degree certificates and transcript of records available [on request](mailto:rauterthomas0@gmail.com).*
 
 Grade Average: 1.22 (Graduated with Honors)
 
@@ -58,9 +55,7 @@ structural variants in long DNA reads.
 > **University of Graz and TU Graz, Austria**  
 > *Oktober 2017 - Oktober 2021*
 
-[Notice of Degree Completion](https://drive.google.com/file/d/102uYLUnxVJHD4AKbVHCRJBWCnpYBJdjc/view?usp=sharing) |
-[Degree Award Certificate](https://drive.google.com/file/d/1-sL_eXZFj3PLWbNDUNumljfEZOAmjRV3/view?usp=sharing) |
-[Transcript of Records](https://drive.google.com/file/d/1-zHvJ8Q2EvF1xCZwDPpZY4N7EAJBkdIY/view?usp=sharing) |
+*Degree certificates and transcript of records available [on request](mailto:rauterthomas0@gmail.com).*
 
 Grade Average: 1.41 (Graduated with Honors)
 
